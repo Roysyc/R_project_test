@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "##just test\n\nm <- c(1,2,3)\n\nsave(m,file = 'test_data')\nload('Output/test_data')\n\nload('Data/test_data')\n",
+    "created" : 1581187357675.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4134635746",
+    "id" : "800C33A8",
+    "lastKnownWriteTime" : 1581191905,
+    "last_content_update" : 1581191905166,
+    "path" : "D:/R_Data_science/R_Foundations/R_project_test/Scripts/Testing.R",
+    "project_path" : "Scripts/Testing.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
